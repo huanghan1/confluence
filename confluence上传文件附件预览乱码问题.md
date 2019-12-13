@@ -20,3 +20,8 @@ CATALINA_OPTS=”-Dconfluence.document.conversion.fontpath=/usr/share/fonts/wind
  
  
  通过以上几部就可以解决中文文档乱码问题，顺便说一句，confluence对数据库的编码格式要求是utf-8，所以请把数据库编码格式设置正确，以免其他地方出现乱码。
+ 
+ 
+ 
+ 一般上传的中文字符  msyhbd.ttc  msyhl.ttc  msyh.ttc
+
